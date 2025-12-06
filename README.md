@@ -4,7 +4,7 @@ A simple Python 3 Flask server that connects to the NYC MTA real-time subway API
 
 ## Live Arrivals Page
 
-![F Train Arrivals](images/Screenshot%202025-12-06%20at%204.35.29%20PM.png)
+![F Train Arrivals](images/arrivals.png)
 
 Visit `http://localhost:8000/arrivals` for a clean, auto-refreshing view of northbound F train arrivals at 2nd Ave station.
 
