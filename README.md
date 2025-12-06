@@ -2,6 +2,12 @@
 
 A simple Python 3 Flask server that connects to the NYC MTA real-time subway API.
 
+## Live Arrivals Page
+
+![F Train Arrivals](images/Screenshot%202025-12-06%20at%204.35.29%20PM.png)
+
+Visit `http://localhost:8000/arrivals` for a clean, auto-refreshing view of northbound F train arrivals at 2nd Ave station.
+
 ## Requirements
 
 - Python 3.9 or higher
@@ -112,10 +118,4 @@ curl http://localhost:8000/subway/feed/1
 - The MTA API returns data in GTFS-realtime format (Protocol Buffers)
 - Times are returned as Unix timestamps
 - The server automatically parses the binary format into JSON
-# nyc-subway-tracker
-# nyc-subway-tracker
-# nyc-subway-tracker
-# nyc-subway-tracker
-# nyc-subway-tracker
-# nyc-subway-tracker
-# nyc-subway-tracker
+
