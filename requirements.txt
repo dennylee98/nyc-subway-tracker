@@ -1,0 +1,6 @@
+flask==3.0.0
+requests==2.31.0
+python-dotenv==1.0.0
+protobuf>=4.25.3
+gtfs-realtime-bindings==1.0.0
+git+https://github.com/Andrew-Dickinson/nyct-gtfs.git
